@@ -11,7 +11,7 @@ A clean, responsive native Android application that generates random numbers, wr
 ## 📱 Screenshots
 | Main Screen | App Icon |
 |---|---|
-| ![App Screen](app/src/main/res/drawable/math_bg.jpg) | *Custom Launcher Asset Enabled* |
+| ![App Screen](app/src/main/res/drawable/math_bg.jpg) |
 
 ## 🛠️ Built With
 * **Language:** [Kotlin](https://kotlinlang.org/)
