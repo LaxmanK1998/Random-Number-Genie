@@ -9,8 +9,8 @@ A clean, responsive native Android application that generates random numbers, wr
 * **Adaptive Graphics:** Includes custom asset integration for modern Android launcher icon safe zones.
 
 ## 📱 Screenshots
-| Main Screen | App Icon |
-|---|---|
+| Main Screen
+|---|
 | ![App Screen](app/src/main/res/drawable/math_bg.jpg) |
 
 ## 🛠️ Built With
